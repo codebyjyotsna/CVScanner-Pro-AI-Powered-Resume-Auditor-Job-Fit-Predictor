@@ -1,0 +1,5 @@
+Flask
+pdfminer.six
+docx2txt
+openai
+numpy

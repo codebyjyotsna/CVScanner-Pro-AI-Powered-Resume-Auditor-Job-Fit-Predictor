@@ -1,0 +1,21 @@
+CVScanner-Pro/
+├── backend/
+│   ├── app.py
+│   ├── resume_parser.py
+│   ├── similarity_checker.py
+│   ├── suggestion_engine.py
+│   ├── requirements.txt
+│   ├── templates/
+│   └── static/
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   └── styles/
+│   ├── package.json
+│   └── tailwind.config.js
+├── README.md
+└── .gitignore
